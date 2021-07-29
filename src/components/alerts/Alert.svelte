@@ -43,6 +43,7 @@ let closed = false;
     font-size: 16px;
     border-radius: 50px;
     font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
     line-height: 1;
     border-radius: 4px;
     margin: 5px 0;
