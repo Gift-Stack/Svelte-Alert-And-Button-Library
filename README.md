@@ -8,7 +8,7 @@
 -   Storybook
 -   Rollup, configured to build .js (umd), .min.js (iife), .mjs (es)
 
-## Setting up
+## Installation
 
 -   Run `npm install buttons-and-alerts` (or `yarn add buttons-and-alerts`)
 
@@ -21,14 +21,6 @@ bundler plugin like
 [svelte-loader](https://github.com/sveltejs/svelte-loader) (where
 [`resolve.mainFields`](https://webpack.js.org/configuration/resolve/#resolve-mainfields)
 in your webpack config includes `"svelte"`). **This is recommended.**
-
-### Based on sveltejs/component-template
-
-I couldn't find an opinionated components library template to my liking, so I
-used
-[sveltejs/component-template](https://github.com/sveltejs/component-template) as
-base. And then I added minified build configuration using terser plugin +
-tests + storybook.
 
 ### Description
 
