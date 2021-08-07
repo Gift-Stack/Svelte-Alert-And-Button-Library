@@ -1,4 +1,4 @@
-# svelt-component-library\
+# svelt-component-library
 
 ## This library includes:
 
@@ -10,10 +10,10 @@
 
 ## Installation
 
--   Run `npm install buttons-and-alerts` (or `yarn add buttons-and-alerts`)
+-   Run `npm install alert-and-button` (or `yarn add alert-and-button`)
 
 ##
-This is the [`GitHub repo`](https://github.com/Gift-Stack/Svelte-Alert-And-Button-Library) to this app
+This is the [`GitHub repo`](https://github.com/Gift-Stack/Svelte-Alert-And-Button-Library) for this package.
 
 
 ## Consuming components
@@ -29,6 +29,6 @@ in your webpack config includes `"svelte"`). **This is recommended.**
 ### Description
 
 This application was built with Svelte and storybook for checking out the
-amazing components. You can check out more om [Svelte]
+amazing components. You can check out more on [Svelte]
 (https://https://svelte.dev/) and
-[storybook](https://storybook.js.org/docs/svelte/) on their individual websites
+[storybook](https://storybook.js.org/docs/svelte/).
