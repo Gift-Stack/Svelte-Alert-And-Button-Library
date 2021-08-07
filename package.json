@@ -1,5 +1,5 @@
 {
-  "name": "svelte-component-library",
+  "name": "svelte-alert-and-button",
   "version": "0.1.0",
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
