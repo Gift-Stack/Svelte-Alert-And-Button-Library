@@ -12,9 +12,13 @@
 
 -   Run `npm install buttons-and-alerts` (or `yarn add buttons-and-alerts`)
 
+##
+This is the [`GitHub repo`](https://github.com/Gift-Stack/Svelte-Alert-And-Button-Library) to this app
+
+
 ## Consuming components
 
-Your package.json has a `"svelte"` field pointing to `src/index.js`, which
+The package.json has a `"svelte"` field pointing to `src/index.js`, which
 allows Svelte apps to import the source code directly, if they are using a
 bundler plugin like
 [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) or
